@@ -1,0 +1,15 @@
+------------------------------------------------
+|     QuadraticEquation                         |
+------------------------------------------------                
+| - a: int                                      |
+| - b: int                                      |
+| - c: int                                      |
+------------------------------------------------                
+| + QuadraticEquation(a: int, b: int, c: int)   |
+| + getA(): int                                 |
+| + getB(): int                                 |
+| + getC(): int                                 |
+| + getDiscriminant(): double                   |
+| + getRoot1(): double                          |
+| + getRoot2(): double                          |
+------------------------------------------------

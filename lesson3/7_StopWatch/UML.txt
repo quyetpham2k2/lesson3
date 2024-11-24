@@ -1,0 +1,13 @@
+----------------------------------------
+|            StopWatch                |
+----------------------------------------
+| - startTime: long                   |
+| - endTime: long                     |
+----------------------------------------
+| + __construct()                     |
+| + getStartTime(): long              |
+| + getEndTime(): long                |
+| + start(): void                     |
+| + stop(): void                      |
+| + getElapsedTime(): long            |
+----------------------------------------
